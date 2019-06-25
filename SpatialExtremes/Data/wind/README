@@ -1,0 +1,6 @@
+These files contains the data set used in paper2.pdf. The data are
+annual maxima wind gusts (km/h) recorded at 35 weather stations in the
+Netherlands over the period 1971--2012.
+
+windGustNetherlands.RData: the annual maxima and spatial coordinates
+        netherlands.RData: an object that contains the border of the Netherlands

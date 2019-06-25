@@ -1,0 +1,7 @@
+These files contains the data set used in paper1.pdf. The data are
+annual maximum temperatures in Switzerland during the period
+1961--2005.
+
+    t-max.csv: the annual maxima
+distances.csv: the coordinates of each weather station
+    names.csv: the name of each weather station
