@@ -8,3 +8,4 @@ Since some packages are voluminous, we encourage to install the packages ahead o
 install.packages(c("extRemes","RandomFields","SpatialExtremes","mvPot","mev","revdbayes","cobs", "sp", "ggplot2"))
 install.packages("INLA", repos=c(getOption("repos"), INLA="https://inla.r-inla-download.org/R/stable"), dep=TRUE)
 ```
+The code for the `mev` tutorial will be available at https://lbelzile.github.io/mevtuto/.
