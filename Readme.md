@@ -10,6 +10,7 @@ install.packages("INLA", repos=c(getOption("repos"), INLA="https://inla.r-inla-d
 ```
 
 The code and slides for `RandomFields` are at https://ms.math.uni-mannheim.de/de/eva2019.
+
 The code for the `mev` tutorial is available at https://lbelzile.github.io/mevtuto/.
 
 For the `mvPot` tutorial, please read the file `workshop_instructions.pdf` located in the corresponding folder.
