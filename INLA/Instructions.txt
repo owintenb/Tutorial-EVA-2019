@@ -1,0 +1,9 @@
+Instructions for the INLA mini-challenge
+
+1. Y is a 500 x 100 matrix with replicates on the columns.
+2. X and Z are covariates.
+3. Y contains a certain number of missing values. The goal is to predict those values using INLA.
+4. RMSE will be used to assess the best predictions.
+5. Your result should be: an RData file of the matrix with the NAs replaced by predicted values and the R code used.
+6. Deadline: July 4 at noon.
+7. Send your results to daniela.castro@kaust.edu.sa and thomas.opitz@inra.fr.
